@@ -1,0 +1,26 @@
+﻿body
+{
+    <style type="text/css">
+        
+}
+.txtbx
+{
+    border : 2px solid #07839f;
+    -webkit-borser-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radisu: 10px;
+    -moz-border-radius: 10px;
+}
+.bttn
+
+{
+    border:  solid #07839f;
+    -webkit-borser-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radisu: 10px;
+    border-radius: 10px;
+}
+
+
